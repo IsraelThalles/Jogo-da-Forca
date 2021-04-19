@@ -1,4 +1,4 @@
-package pacote;
+package modelo;
 
 //Classe que contém os vetores de string com os métodos get.
 public class ListaDePalavras extends ModeloDeListaDePalavras {

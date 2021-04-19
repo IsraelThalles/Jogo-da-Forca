@@ -1,4 +1,4 @@
-package pacote;
+package modelo;
 
 public abstract class ModeloDeListaDePalavras {
 	private String palavraOculta[];
